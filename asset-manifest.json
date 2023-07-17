@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f249a49c.css",
+    "main.js": "/static/js/main.d131f948.js",
+    "static/media/zoro-background.jpg": "/static/media/zoro-background.284e124bc8a3e9fa71b0.jpg",
+    "static/media/onepiececlock.png": "/static/media/onepiececlock.efdd4f17b3ad1d70f124.png",
+    "index.html": "/index.html",
+    "main.f249a49c.css.map": "/static/css/main.f249a49c.css.map",
+    "main.d131f948.js.map": "/static/js/main.d131f948.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f249a49c.css",
+    "static/js/main.d131f948.js"
+  ]
+}
